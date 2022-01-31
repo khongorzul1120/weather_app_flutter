@@ -1,4 +1,4 @@
-# green_fintech
+# WeatherApp
 
 A new Flutter project.
 
